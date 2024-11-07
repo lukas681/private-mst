@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="fresh_MAC" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="fresh_MAC" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (priv-mst)" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
   </component>
